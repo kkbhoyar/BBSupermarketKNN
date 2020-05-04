@@ -1,2 +1,2 @@
 # BBSupermarketKNN
-Classifying Customers of BB Supermarket using KNN
+Classifying Customers of BB Supermarket using K-means Clustering
